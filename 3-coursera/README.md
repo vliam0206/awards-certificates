@@ -3,7 +3,7 @@
 :trophy: All of my achievements in Information Technology Specialization (mostly on Coursera):trophy:
 
 ## Table of Contents
-#| Name | Description | Achievement | Issue Date | Issuing Organization - Issuer
+#| Name | Description | Achievement | Issue Date | Issuing Organization
 -| ---- | ----------- | ----------- | ---------- | -----------------------------
 1| [CertNexus Certified Ethical Emerging Technologist](https://github.com/vliam0206/awards-certificates/blob/main/3-coursera/221022_certnexus-certified-ethical-emerging-technologist/Coursera%20JANY7H4G4JXR.pdf) | **Course Certificates Completed:** <br/> - Communicate Effectively about Ethical Challenges in Data-Driven Technologies <br/> - Create and Lead an Ethical Data-Driven Organization <br/> - Turn Ethical Frameworks into Actionable Steps <br/> - Promote the Ethical Use of Data-Driven Technologies <br/> - Detect and Mitigate Ethical Risks <br/> - Preparing for Your CertNexus Certification Exam | Completed | 22.10.2022 | Coursera
 2| [Software Development LifeCycle](https://github.com/vliam0206/awards-certificates/blob/main/3-coursera/220809_software-development-lifecycle/Coursera%20NM3QYTNJWS6Q.pdf) | **Course Certificates Completed:** <br/> - Software Development Processes and Methodologies <br/> - Agile Software Development <br/> - Lean Software Development <br/> - Engineering Practices for Building Quality Software | Completed | 09.08.2022 | Coursera

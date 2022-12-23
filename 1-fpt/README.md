@@ -3,7 +3,7 @@
 :trophy: All of my achievements in FPT University HCMC :trophy:
 
 ## Table of Contents
-#| Name | Description | Achievement | Issue Date | Issuing Organization - Issuer
+#| Name | Description | Achievement | Issue Date | Issuing Organization
 -| ---- | ----------- | ----------- | ---------- | -----------------------------
 1| [Honorable Student of Semester](https://github.com/vliam0206/awards-certificates/blob/main/1-fpt/221109_HonorableStudent_Sum22.pdf) | Students with GPAs higher than 8.0 after a semester at FPT University would receive this title. | GPA 8.32 | 09.10.2022 (Semester Summer 2022 - Semester 4/9) | FPT University
 2| [Excellent Student of Semester](https://github.com/vliam0206/awards-certificates/blob/main/1-fpt/220713_ExcellentStudent-Spr22.pdf) | Students with GPAs higher than 9.0 after a semester at FPT University would receive this title. | GPA 9.05 | 13.07.2022(Semester Spring 2022 - Semester 3/9) | FPT University

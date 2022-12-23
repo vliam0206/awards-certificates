@@ -10,5 +10,5 @@
 3| [IT Certificates Folder](./3-coursera) | All of my achievements in Information Technology Specialization (mostly on Coursera)
 4| [Graduation Diploma Folder](./4-graduation) | My graduation diploma certificates
 5| [Informatics Certificates Folder](./5-informatics) | All of my achievements in Informatics Specialization at High School
-6| [Chemistry Certificates Folder](./6-chemistry) | All my achievements in Chemistry Specialization at High School
-7| [Certificate of Merit for Honorable Student Folder	](./7-honorable-student-highschool) | All of my Certificate of Merit for Honorable Student at High School
+6| [Extracurricular Activities Certificates Folder](./6-extracurricular) | All my achievements in Extracurricular Activities
+7| [Certificate of Merit for Honorable Student Folder](./7-honorable-student-highschool) | All of my Certificate of Merit for Honorable Student at High School
